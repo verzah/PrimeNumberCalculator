@@ -1,0 +1,10 @@
+C:\Users\Gavin\source\repos\Project2Gavin\Project2Gavin\bin\Debug\Project2Gavin.exe.config
+C:\Users\Gavin\source\repos\Project2Gavin\Project2Gavin\bin\Debug\Project2Gavin.exe
+C:\Users\Gavin\source\repos\Project2Gavin\Project2Gavin\bin\Debug\Project2Gavin.pdb
+C:\Users\Gavin\source\repos\Project2Gavin\Project2Gavin\obj\Debug\Project2Gavin.csproj.AssemblyReference.cache
+C:\Users\Gavin\source\repos\Project2Gavin\Project2Gavin\obj\Debug\Project2Gavin.Form1.resources
+C:\Users\Gavin\source\repos\Project2Gavin\Project2Gavin\obj\Debug\Project2Gavin.Properties.Resources.resources
+C:\Users\Gavin\source\repos\Project2Gavin\Project2Gavin\obj\Debug\Project2Gavin.csproj.GenerateResource.cache
+C:\Users\Gavin\source\repos\Project2Gavin\Project2Gavin\obj\Debug\Project2Gavin.csproj.CoreCompileInputs.cache
+C:\Users\Gavin\source\repos\Project2Gavin\Project2Gavin\obj\Debug\Project2Gavin.exe
+C:\Users\Gavin\source\repos\Project2Gavin\Project2Gavin\obj\Debug\Project2Gavin.pdb
